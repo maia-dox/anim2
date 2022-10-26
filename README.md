@@ -3,6 +3,7 @@ Anim2 is a particle renderer which I made while taking a class in computational 
 Please note that this project is only supported on Linux systems, and will not work on Windows as 
 this tool follows the same scheme as the original Anim, using unix pipes to receive data from the user's program.
 
+
 to build the project, run `make config=release`
 
 to install run `./install.sh`
